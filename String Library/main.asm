@@ -1,3 +1,6 @@
+# Aluno: Paulo Henrique Almeida de Andrade
+# Arquivo de main com menu de acesso para cada função
+
 .include "string.asm"
 .globl main
 

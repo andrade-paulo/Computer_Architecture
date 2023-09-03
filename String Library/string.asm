@@ -1,3 +1,6 @@
+# Aluno: Paulo Henrique Almeida de Andrade
+# Arquivo string com as implementações de cada função requisitada
+
 .text
 	strlen:
 		# Stack
