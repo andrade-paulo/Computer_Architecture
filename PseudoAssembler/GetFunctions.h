@@ -13,7 +13,7 @@ using namespace std;
 const regex title("(\\w+) ");
 const regex inCommandLabel("[^$\\d ](\\w*)(\\n|$)");
 const regex label("(\\w*):");
-const regex regist("[$]\\d|[$].\\d");
+const regex regist("[$]\\d+|[$].\\d+");
 const regex immediate(" \\d*(\\n|$| )");
 
 // Funtions
